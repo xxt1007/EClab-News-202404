@@ -120,7 +120,7 @@ print(
     """
       \\end{itemize}
 
-    \\item \\sffamily Consuling Editor
+    \\item \\sffamily Consulting Editor
       \\begin{itemize}
         \\item \\sffamily Xia Fang, PhD, Professor
       \\end{itemize}
