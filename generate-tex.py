@@ -17,6 +17,7 @@ def escape_special_char(string):
         .replace("~", "\\~")
         .replace("{", "\\{")
         .replace("}", "\\}")
+        .replace("_", "\\_")
     )
 
 
