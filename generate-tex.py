@@ -199,7 +199,8 @@ for category in categories:
         print("\n\\hspace*{\\fill}\n")
         print("\n\\textbf{Abstract:}")
         print(article["abstract"])
-        print("\n\\vspace{.01\\textheight}\\textbf{Keywords:} " + article["keywords"])
+        if "keywords" in article and article["keywords"] != "":
+            print("\n\\vspace{.01\\textheight}\\textbf{Keywords:} " + article["keywords"])
         print("\\end{frame}")
         generated_articles.append(article)
 

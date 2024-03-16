@@ -35,4 +35,4 @@ for i in range(len(articles)):
     assert "category" in article, "缺少分类：" + file
     assert "summary" in article, "缺少概括：" + file
     assert "abstract" in article, "缺少abstract：" + file
-    assert "keywords" in article, "缺少关键词：" + file
+    # assert "keywords" in article, "缺少关键词：" + file
