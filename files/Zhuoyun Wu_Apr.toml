@@ -1,0 +1,58 @@
+[editor]
+name = "Zhuoyun Wu"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Self-conscious emotion traits & reactivity in narcissism"
+doi = "https://doi.org/10.1007/s12144-023-05256-y"
+authors = "Michelle Schoenleber, Luke R. Johnson, Howard Berenbaum"
+journal = "Current Psychology"
+publish = "Volume 43, pages 11546–11558, 2024"
+category = "Emotion"
+summary = "探讨了自负型和脆弱型自恋在内疚和羞耻方面的差异。自负型自恋与内疚相关，而脆弱型自恋与羞耻相关。自负型自恋者在面对人际压力后的内疚反应较低，而脆弱型自恋者的羞耻和内疚反应更强。"
+abstract = "Two studies investigated the possible divergence between grandiose and vulnerable narcissism with regard to guilt- and shame-related traits and reactivity of these emotions. Participants in Study 1(N = 688; Mage = 19.5; 64.4% female) completed self-report measures regarding narcissism dimensions, as well as general and self-conscious emotion propensities and aversions. Participants in Study 2 (N = 142; Mage = 18.9; 69.2% female) provided state emotion ratings before and after an imaginal social rejection task, in addition to completing measures of narcissism dimensions. Across both studies, guilt was more relevant to grandiose narcissism. In Study 1, guilt-proneness was negatively associated with grandiose narcissism, but only when guilt aversion was low. Relatedly, Study 2 demonstrated that greater grandiose narcissism was associated with lower guilt reactivity following an interpersonal stressor. Comparatively, in Study 1, shame-related traits were positively associated with vulnerable narcissism, though guilt-proneness was negatively associated with vulnerable narcissism. Additionally, Study 2 indicated that greater vulnerable narcissism was associated with heightened reactivity of both shame and guilt. The present study thus builds on the limited research evidence on self-conscious emotions and narcissism, highlighting the sometimes opposing roles of guilt and shame in relation to these different but related personality dimensions."
+keywords = "Narcissism, Shame, Guilt, Emotional reactivity"
+
+[article.2]
+title = "Exploring the emotional and thematic matrix of dreams during war: the role of anxiety and depression"
+doi = "https://doi.org/10.1007/s12144-023-05339-w"
+authors = "Izabela Kaźmierczak, Anna Zajenkowska, Marta Bodecka-Zych, Dorota Jasielska, Anna Olechowska, Weronika Molińska, Karolina Moniuszko"
+journal = "Current Psychology"
+publish = "Volume 43, pages 12558–12566, 2024"
+category = "Emotion"
+summary = "该研究通过收集波兰个体在2022年战争爆发期间的梦境，探讨了梦境中的情绪体验和焦虑与抑郁水平之间的关系。研究发现，梦境中最常见的情绪是惊讶、恐惧和悲伤。焦虑水平较高的个体的梦境中惊讶较少，而抑郁水平较高的个体的梦境中悲伤感较强。"
+abstract = "Dreams serve as a psychological space where the human mind grapples with burdensome issues, and war undoubtedly falls into that category. Inspired by Charlotte Beradt’s work on analyzing dreams during the Third Reich, we collected dreams from a sample of Polish individuals(N = 90) during the outbreak of war in March 2022. Our objective was to identify the most intense emotions conveyed through these dreams and investigate differences in both emotional intensity and dream content between individuals with high levels of anxiety and closely related depression, and those with lower levels of anxiety. We employed a mixed-method study design. The prevailing emotions observed in the dreams were surprise, fear, and sadness. Interestingly, the dreams of participants with higher levels of anxiety exhibited less surprise compared to the comparison group. Additionally, we found that dreams reported by individuals with higher levels of depression conveyed a greater sense of sadness than those in the comparison group. Content analysis revealed that anxious individuals' dreams prominently featured horror, which evoked feelings of powerlessness rather than surprise. In contrast, the dreams of non-anxious individuals exhibited a dynamic narrative with numerous twists and turns, creating a simultaneous presence and absence of threats. Consequently, the resulting vagueness and uncertainty likely contributed to the element of surprise."
+keywords = "Dreams, War, Poland, Anxiety, Depression, Basic emotions"
+
+[article.3]
+title = "Development and validation of a brief version of the emotion reactivity scale: The B-ERS"
+doi = "https://doi.org/10.1007/s12144-023-05323-4"
+authors = "Jennifer C. Veilleux, Regina E. Schreiber, Elise A. Warner, Katherine Hyde Brott"
+journal = "Current Psychology"
+publish = "Volume 43, pages 12586–12600, 2024"
+category = "Emotion"
+summary = "该研究创建了Emotion Reactivity Scale（ERS）的简短六项版本（B-ERS），用于评估情绪反应性。研究发现，B-ERS与完整的ERS具有高度相关性，并且在与心理病理症状、跨诊断因素和日常情绪的相关性方面呈现相似的模式。"
+abstract = "The tendency to experience emotions easily, feel emotions intensely, and to experience emotions for a long duration is encompassed by the construct of emotional reactivity, often assessed by the Emotion Reactivity Scale(ERS). Higher emotional reactivity is associated with a wide range of symptoms of psychopathology, and screening for emotional reactivity may be useful as a transdiagnostic assessment. We thus created a brief six-item version of the ERS(B-ERS). Reliability and validity of the B-ERS were examined in four studies(N = 2874). We confirmed that the B-ERS is highly correlated with the full ERS and yield similar correlation patterns relative to the full measure, in terms of associations with psychopathology symptoms(e.g., borderline symptoms, affective distress), related transdiagnostic factors(e.g., emotion-related impulsivity, emotion dysregulation) and affect in daily life. The B-ERS is a valid and brief method for the assessment of emotional reactivity that can be used for both clinical screening and as a viable alternative to the long form in research."
+keywords = "Emotional reactivity, Emotional sensitivity, Scale development, Transdiagnostic, Psychopathology"
+
+[article.4]
+title = "Musicality - Tuned to the melody of vocal emotions"
+doi = "https://doi.org/10.1111/bjop.12684"
+authors = "Christine Nussbaum, Annett Schirmer, Stefan R. Schweinberger"
+journal = "British Journal of Psychology"
+publish = "2024,115: 206–225"
+category = "Vocal, Emotion"
+summary = "音乐家在声音情感感知方面的表现优于常人，尤其在识别声音的旋律（基频）方面更为突出。基频比音色对于识别情感类别更重要。"
+abstract = "Musicians outperform non-musicians in vocal emotion perception, likely because of increased sensitivity to acoustic cues, such as fundamental frequency(F0) and timbre. Yet, how musicians make use of these acoustic cues to perceive emotions, and how they might differ from non-musicians, is unclear. To address these points, we created vocal stimuli that conveyed happiness, fear, pleasure or sadness, either in all acoustic cues, or selectively in either F0 or timbre only. We then compared vocal emotion perception performance between professional/semi-professional musicians(N = 39) and non-musicians(N = 38), all socialized in Western music culture. Compared to non-musicians, musicians classified vocal emotions more accurately. This advantage was seen in the full and F0-modulated conditions, but was absent in the timbre-modulated condition indicating that musicians excel at perceiving the melody(F0), but not the timbre of vocal emotions. Further, F0 seemed more important than timbre for the recognition of all emotional categories. Additional exploratory analyses revealed a link between time-varying F0 perception in music and voices that was independent of musical training. Together, these findings suggest that musicians are particularly tuned to the melody of vocal emotions, presumably due to a natural predisposition to exploit melodic patterns."
+keywords = "fundamental frequency(F0), musicality, parameter-specific voice morphing, timbre, vocal emotion perception"
+
+[article.5]
+title = "A comparative analysis of colour–emotion associations in 16–88-year-old adults from 31 countries"
+doi = "https://doi.org/10.1111/bjop.12687"
+authors = "Domicele Jonauskaite, Déborah Epicoco, Abdulrahman S. Al-rasheed, John Jamir Benzon R. Aruta, Victoria Bogushevskaya, Sanne G. Brederoo, Violeta Corona, Sergejs Fomins, Alena Gizdic, Yulia A. Griber, Jelena Havelka, Marco Hirnstein, George John, Daniela S. Jopp, Bodil Karlsson, Nikos Konstantinou, Éric Laurent, Lynn Marquardt, Philip C. Mefoh, Daniel Oberfeld, Marietta Papadatou-Pastou, Corinna M. Perchtold-Stefan, Giulia F. M. Spagnulo, Aygun Sultanova, Takumi Tanaka, Ma. Criselda Tengco-Pacquing, Mari Uusküla, Grażyna Wąsowicz, Christine Mohr"
+journal = "British Journal of Psychology"
+publish = "2024, 115: 275–305"
+category = "Emotion"
+summary = "研究调查了年轻人和年长者之间颜色和情绪之间的关联。年长者与颜色相关联的情绪更强烈且更积极，显示出积极性效应。"
+abstract = "As people age, they tend to spend more time indoors, and the colours in their surroundings may significantly impact their mood and overall well-being. However, there is a lack of empirical evidence to provide informed guidance on colour choices, irrespective of age group. To work towards informed choices, we investigated whether the associations between colours and emotions observed in younger individuals also apply to older adults. We recruited 7393 participants, aged between 16 and 88 years and coming from 31 countries. Each participant associated 12 colour terms with 20 emotion concepts and rated the intensity of each associated emotion. Different age groups exhibited highly similar patterns of colour–emotion associations(average similarity coefficient of .97), with subtle yet meaningful age-related differences. Adolescents associated the greatest number but the least positively biased emotions with colours. Older participants associated a smaller number but more intense and more positive emotions with all colour terms, displaying a positivity effect. Age also predicted arousal and power biases, varying by colour. Findings suggest parallels in colour–emotion associations between younger and older adults, with subtle but significant age-related variations. Future studies should next assess whether colour–emotion associations reflect what people actually feel when exposed to colour."
+keywords = "affect, ageing, colour, cross-cultural psychology, cross-modal correspondences, development, perception"
