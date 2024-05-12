@@ -1,0 +1,14 @@
+[editor]
+name = "Shiyan Zhan"
+degree = "Postgraduate, 2024"
+
+[article.1]
+title = "A chronometric study of the posterior cerebellum’s function in emotional processing"
+doi = "https://doi.org/10.1016/j.cub.2024.03.013"
+authors = "Andrea Ciricugno, Chiara Ferrari, Lorella Battelli & Zaira Cattaneo"
+journal = "Current Biology"
+publish = "Volume 34, Issue 9, 6 May 2024, Pages 1844-1852.e3"
+category = "Emotion"
+summary = "近年来，小脑逐渐被认为在情绪与社交过程中发挥着重要作用，然而小脑进行社交加工的过程一直较为模糊。本研究采用时间序列经颅磁刺激（TMS）方法，发现小脑在情绪加工的早期阶段（100ms起）就被激活，与大脑中的关键节点后颞上沟（pSTS）出现同步。进一步结果发现，pSTS在情感处理中的激活依赖于小脑的活动性。该结果首次揭示了小脑功能的时间序列与大脑节点的因果功能连接过程。"
+abstract = "The posterior cerebellum is a recently discovered hub of the affective and social brain, with different subsectors contributing to different social functions. However, very little is known about when the posterior cerebellum plays a critical role in social processing. Due to its location and anatomy, it has been difficult to use traditional approaches to directly study the chronometry of the cerebellum. To address this gap in cerebellar knowledge, here we investigated the causal contribution of the posterior cerebellum to social processing using a chronometric transcranial magnetic stimulation (TMS) approach. We show that the posterior cerebellum is recruited at an early stage of emotional processing (starting from 100 ms after stimulus onset), simultaneously with the posterior superior temporal sulcus (pSTS), a key node of the social brain. Moreover, using a condition-and-perturb TMS approach, we found that the recruitment of the pSTS in emotional processing is dependent on cerebellar activation. Our results are the first to shed light on chronometric aspects of cerebellar function and its causal functional connectivity with other nodes of the social brain."
+keywords = "cerebellum, emotional processing, social brain, TMS, STS, state dependency, causal functional connectivity"
