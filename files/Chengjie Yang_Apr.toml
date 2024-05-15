@@ -1,0 +1,36 @@
+[editor]
+name = "Chengjie Yang"
+degree = "Undergraduate, 2022"
+
+[article.1]
+title = "The connections between personality, ideology and (counter-)empathic emotions depend on the target"
+doi = "https://doi.org/10.1111/jopy.12860"
+authors = "Sa-kiera Tiarra Jolynn Hudson, Fatih Uenal"
+journal = "Journal of personality"
+publish = "Volume 92, pages 883-906, 2024"
+category = "Emotion"
+summary = "该研究旨在研究情绪的两个突出的激励因素：个性特征和意识形态对人们对不同群体的同理心、幸灾乐祸的激发。人们对尊重传统主义（RWA）的意识形态取向和对基于群体的等级制度（SDO）的偏好会影响群体间的情绪。此外，低宜人性、低开放性和高责任感的个性特征独特地产生了SDO和RWA。本文研究了被认为是危险和竞争的群体的人格特征、意识形态和情绪之间的关系；假设SDO和RWA与移情减少和幸灾乐祸增加有关，但与独特的群体有关；并通过调查左翼威权主义扩展了过去的工作，发现个性和情绪以及意识形态和情绪之间的关系取决于所讨论的特定群体。"
+abstract = "Objectives: Examine the group- specific connections between personality, ideol-ogy, and the moral emotions of empathy and schadenfreude.Background: Empathy and schadenfreude are emotions that often lead to moral prosocial  or  spiteful  harmful  behaviors  respectively.  An  outstanding  question  is  what  motivates  feelings  of  empathy  and  schadenfreude  towards  people  from  different groups. Here we examine two prominent motivators of emotions: per-sonality  traits  and  ideology.  Previous  work  has  found  that  people’s  ideological  orientations  towards  respecting  traditionalism  (RWA)  and  preferences  about  group-  based  hierarchy  (SDO)  can  impact  intergroup  emotions.  Further,  per-sonality  traits  of  low  agreeableness,  low  openness,  and  high  conscientiousness  uniquely engender SDO and RWA.Method: In the research presented here (Study 1 n= 492; Study 2 n= 786), we examine  the  relationships  between  personality  traits,  ideology,  and  emotions  for groups that are perceived to be dangerous and competitive. We hypothesize that SDO and RWA will relate to reduced empathy and increased schadenfreude but  towards  unique  groups.  SDO  will  relate  to  reduced  empathy  and  increased  schadenfreude towards competitive, low- status groups while RWA will relate to reduced empathy and increased schadenfreude towards threatening groups. We further extend past work by investigating left- wing authoritarianism as well.Results: We  find  broad  support  for  our  expectation  that  the  relationships  be-tween personality and emotions, as well as ideology and emotions, depend on the specific group in question.Conclusions: These results help expand the dual process motivational model of prejudice and suggest the importance of specifying a target group when assessing relationships between personality, ideology, and emotions."
+keywords = "dual process model, empathy, left wing authoritarianism, personality, right wing authoritarianism, schadenfreude, social dominance orientation"
+
+[article.2]
+title = " Sleep Loss and Emotion: A Systematic Review and Meta-Analysis of over 50 Years of Experimental Research"
+doi = " https://doi.org/10.1037/bul0000410"
+authors = "Cara A. Palmer, Joanne L. Bower, Kit W. Cho, Michelle A. Clementi, Simon Lau, Benjamin Oosterhoff, Candice A. Alfano"
+journal = "Psychological Bulletin"
+publish = "Volume 150, pages 440-463, 2024"
+category = "Emotion"
+summary = "该研究系统审查和分析量化了各种睡眠不足对情绪体验的多个方面的影响。研究通过完全睡眠剥夺、部分睡眠限制或睡眠碎片减少健康人的睡眠，研究人群对积极情绪、消极情绪、一般情绪障碍和情绪的影响反应性、焦虑症状和/或抑郁症状。结果发现所有形式的睡眠不足都会导致积极情绪减少，焦虑症状增加，情绪反应迟钝。这项研究代表了最全面的迄今为止实验性睡眠和情绪研究的定量综合，并提供了强有力的证据延长清醒时间、缩短睡眠时间和/或夜间醒来会产生不利影响人类的情感功能。"
+abstract = "In a largely sleep-deprived society, quantifying the effects of sleep loss on emotion is critical for promoting psychological health. This preregistered systematic review and meta-analysis quantified the effects of various forms of sleep loss on multiple aspects of emotional experiences. Eligible studies used experimental reductions of sleep via total sleep deprivation, partial sleep restriction, or sleep fragmentation in healthy populations to examine effects on positive affect, negative affect, general mood disturbances, emotional reactivity, anxiety symptoms, and/or depressive symptoms. In total, 1,338 effect sizes across 154 studies were included (N = 5,717; participant age range = 7–79 years). Random effects models were conducted, and all forms of sleep loss resulted in reduced positive affect (standardized mean difference [SMD] = −0.27 to −1.14), increased anxiety symptoms (SMD = 0.57–0.63), and blunted arousal in response to emotional stimuli (SMD = −0.20 to −0.53). Findings for negative affect, reports of emotional valence in response to emotional stimuli, and depressive symptoms were mixed and depended on the type of sleep loss. Nonlinear effects for the amount of sleep loss as well as differences based on the stage of sleep restricted (i.e., rapid eye movement sleep or slow-wave sleep) were also detected. This study represents the most comprehensive quantitative synthesis of experimental sleep and emotion research to date and provides strong evidence that periods of extended wakefulness, shortened sleep duration, and/or nighttime awakenings adversely influence human emotional functioning. Findings provide an integrative foundation for future research on sleep and emotion and elucidate the precise ways that inadequate sleep may impact our daytime emotional lives. (PsycInfo Database Record (c) 2024 APA, all rights reserved)"
+keywords = ""
+
+[article.3]
+title = "On Cultural Differences of Heroes: Evidence From Individualistic and Collectivistic Cultures"
+doi = "https://doi.org/10.1177/01461672221150238"
+authors = "Yuning Sun, Elaine L. Kinsella, Eric R. Igou"
+journal = "Personality and Social Psychology Bulletin"
+publish = "Volume 50, pages 841-856, 2024"
+category = "Culture"
+summary = "该研究考察了不同文化中英雄刻板印象的异同。研究1和研究2：调查了集体主义文化参与者对英雄的外行认知。研究3：检验了群体成员资格是否可以通过参与者对英雄特征组合集的中心性评级来确定。研究4：测试了区分美国和中国参与者的英雄特征，当用于描述目标人物时，是否会影响目标人物是英雄的印象。研究5和研究6：调查了不同类型英雄（如社会、军事、公民）认知的文化差异，以及个人主义和集体主义对这些英雄认知的影响。"
+abstract = "Building on earlier research that examined the characteristics people associate with heroes, our research examined similarities and differences of the hero stereotype across cultures. Specifically, in Study 1 (N = 209) and Study 2 (N = 298), we investigated lay perceptions of heroes among participants from a collectivistic culture. In Study 3 (N = 586), we examined whether group membership could be determined by participants’ centrality ratings of the combined set of hero features. In Study 4 (N = 197), we tested whether the hero features that distinguish American and Chinese participants, when used to describe a target person, influence the impression that the target person is a hero. In Study 5 (N = 158) and Study 6 (N = 591), we investigated cultural differences in perceptions of different types of heroes (e.g., social, martial, civil) and the influence of individualism and collectivism on the perception of those heroes."
+keywords = "hero, heroism, cultural differences, person perception, prototype analysis"
