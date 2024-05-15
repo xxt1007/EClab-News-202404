@@ -1,0 +1,14 @@
+[editor] 
+name = "Xintong Xie" # 格式类似于 Shuoan Li 
+degree = "Undergraduate, 2020" # 格式类似于 Undergraduate, 2022 
+
+[article.1] # 罗马数字指定文献编号
+title = "Hope: The experience and functions of a seemingly-positive group-based emotion" 
+doi = "https://doi.org/10.1080/10463283.2024.2347815" # 以 https://doi.org/开头
+authors = " Smadar Cohen-Chen, Ruthie Pliskin" 
+journal = "European Review of Social Psychology" 
+publish = "28 Apr, 2024" # 如发发布年份，期号，卷号，页码
+category = "Emotion" # Emotion, Face, Cross-culture 等，注意首字母大写
+summary = "希望（hope）通常被认为是一种积极的情感，但在群体层面上，它可能在某些情况下产生负面的影响。文章通过情感的价态/功能框架来分析希望，考虑了希望的情感体验愉悦度和社会结果功能。研究表明，希望能够激发认知规划，从而激励行为，但在缺乏控制感的情况下，如社会和政治背景中，希望可能不会转化为行动。希望在群体冲突中被视为一种能够促进和解政策和行动的情感，但在集体行动或社会抗议的背景下，希望甚至可能产生反作用。" # 中文的概括
+abstract = "emotion ranging from extremely positive to extremely negative. To deepen and nuance our understanding of hope – a seemingly positive emotion – we apply to it a valence/function framework of emotion in group-based contexts. This framework facilitates the examination and categorisation of emotions as positive or negative along two orthogonal dimensions: the pleasantness of the emotional experience and their social outcomes. According to this framework, emotions can “move” on both dimensions (i.e. be experienced as pleasant or unpleasant and lead to functional versus dysfunctional outcomes), based on various factors. Applying this framework to group-based hope may seem surprising, as the emotion is often considered universally good. Yet a more nuanced approach reveals situations in which group-based hope can be a “do bad” emotion, and, at times, can even “feel bad.” We discuss the implications of these understandings for research on hope and its applications across different group contexts" 
+keywords = "Person perception, face, trustworthiness, threat, context" # 用英文逗号分隔
