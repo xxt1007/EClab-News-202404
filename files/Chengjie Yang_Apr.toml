@@ -14,7 +14,7 @@ abstract = "Objectives: Examine the group- specific connections between personal
 keywords = "dual process model, empathy, left wing authoritarianism, personality, right wing authoritarianism, schadenfreude, social dominance orientation"
 
 [article.2]
-title = " Sleep Loss and Emotion: A Systematic Review and Meta-Analysis of over 50 Years of Experimental Research"
+title = "Sleep Loss and Emotion: A Systematic Review and Meta-Analysis of over 50 Years of Experimental Research"
 doi = " https://doi.org/10.1037/bul0000410"
 authors = "Cara A. Palmer, Joanne L. Bower, Kit W. Cho, Michelle A. Clementi, Simon Lau, Benjamin Oosterhoff, Candice A. Alfano"
 journal = "Psychological Bulletin"
@@ -22,7 +22,7 @@ publish = "Volume 150, pages 440-463, 2024"
 category = "Emotion"
 summary = "该研究系统审查和分析量化了各种睡眠不足对情绪体验的多个方面的影响。研究通过完全睡眠剥夺、部分睡眠限制或睡眠碎片减少健康人的睡眠，研究人群对积极情绪、消极情绪、一般情绪障碍和情绪的影响反应性、焦虑症状和/或抑郁症状。结果发现所有形式的睡眠不足都会导致积极情绪减少，焦虑症状增加，情绪反应迟钝。这项研究代表了最全面的迄今为止实验性睡眠和情绪研究的定量综合，并提供了强有力的证据延长清醒时间、缩短睡眠时间和/或夜间醒来会产生不利影响人类的情感功能。"
 abstract = "In a largely sleep-deprived society, quantifying the effects of sleep loss on emotion is critical for promoting psychological health. This preregistered systematic review and meta-analysis quantified the effects of various forms of sleep loss on multiple aspects of emotional experiences. Eligible studies used experimental reductions of sleep via total sleep deprivation, partial sleep restriction, or sleep fragmentation in healthy populations to examine effects on positive affect, negative affect, general mood disturbances, emotional reactivity, anxiety symptoms, and/or depressive symptoms. In total, 1,338 effect sizes across 154 studies were included (N = 5,717; participant age range = 7–79 years). Random effects models were conducted, and all forms of sleep loss resulted in reduced positive affect (standardized mean difference [SMD] = −0.27 to −1.14), increased anxiety symptoms (SMD = 0.57–0.63), and blunted arousal in response to emotional stimuli (SMD = −0.20 to −0.53). Findings for negative affect, reports of emotional valence in response to emotional stimuli, and depressive symptoms were mixed and depended on the type of sleep loss. Nonlinear effects for the amount of sleep loss as well as differences based on the stage of sleep restricted (i.e., rapid eye movement sleep or slow-wave sleep) were also detected. This study represents the most comprehensive quantitative synthesis of experimental sleep and emotion research to date and provides strong evidence that periods of extended wakefulness, shortened sleep duration, and/or nighttime awakenings adversely influence human emotional functioning. Findings provide an integrative foundation for future research on sleep and emotion and elucidate the precise ways that inadequate sleep may impact our daytime emotional lives. (PsycInfo Database Record (c) 2024 APA, all rights reserved)"
-keywords = ""
+keywords = "Emotion, mood, mental health, sleep, meta-analysis"
 
 [article.3]
 title = "On Cultural Differences of Heroes: Evidence From Individualistic and Collectivistic Cultures"
