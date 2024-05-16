@@ -5,7 +5,7 @@ degree = "Undergraduate, 2020"
 [article.1]
 title = "The SocialVidStim: a video database of positive and negative social evaluation stimuli for use in social cognitive neuroscience paradigms"
 doi = "https://doi.org/10.1093/scan/nsae024"
-authors = Laura M Tully, Mary Blendermann, Jeffrey R Fine, Lauren N Zakskorn, Matilda Fritz, Gabriella E Hamlett, Shannon T Lamb, Anna K Moody, Julenne Ng, Narimes Parakul, Bryn M Ritter, Raisa Rahim, Grace Yu, Sandra L Taylor"
+authors = "Laura M Tully, Mary Blendermann, Jeffrey R Fine, Lauren N Zakskorn, Matilda Fritz, Gabriella E Hamlett, Shannon T Lamb, Anna K Moody, Julenne Ng, Narimes Parakul, Bryn M Ritter, Raisa Rahim, Grace Yu, Sandra L Taylor"
 journal = "Social Cognitive and Affective Neuroscience"
 publish = " Volume 19, Issue 1, 2024"
 category = "Emotion"
